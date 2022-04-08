@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MobileComputingHomeWork1</string>
+    <string name="symptoms">SYMPTOMS</string>
+    <string name="measure_respiratory_rate">MEASURE RESPIRATORY RATE</string>
+    <string name="measure_heart_rate">MEASURE HEART RATE</string>
+    <string name="upload_signs">UPLOAD SIGNS</string>
+    <string name="textview">textview</string>
+    <string name="nausea">Nausea</string>
+    <string name="headache">Headache</string>
+    <string name="diarrhea">Diarrhea</string>
+    <string name="soar_throat">Soar Throat</string>
+    <string name="fever">Fever</string>
+    <string name="muscle_ache">Muscle Ache</string>
+    <string name="loss_of_smell_or_taste">Loss of Smell or Taste</string>
+    <string name="cough">Cough</string>
+    <string name="shortness_of_breath">Shortness of Breath</string>
+    <string name="feeling_tired">Feeling Tired</string>
+    <string name="uploadsymptoms">Uploadsymptoms</string>
+
+</resources>
